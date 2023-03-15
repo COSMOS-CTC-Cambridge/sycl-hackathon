@@ -4,9 +4,8 @@ name: Deploy Jekyll to GitHub pages
 
 on:
   push:
-    # Only deploy on tags that start with v
-    tags:
-      - v*
+    branches:    
+      - main
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
