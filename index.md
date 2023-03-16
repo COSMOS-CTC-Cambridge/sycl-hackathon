@@ -116,9 +116,8 @@ This event is being organised in collaboration between the two [oneAPI Centers
 of
 Excellence](https://www.intel.com/content/www/us/en/developer/tools/oneapi/training/academic-program/centers-of-excellence.html)
 at the University of Cambridge: 
-* [The Stephen Hawking Centre for Theoretical Cosmology](https://www.ctc.cam.ac.uk/), Department of Applied
-  Mathematics & Theoretical Physics
-* [Research Computing Services](https://www.hpc.cam.ac.uk/), University Information Services
+* [The Stephen Hawking Centre for Theoretical Cosmology](https://www.ctc.cam.ac.uk/)
+* [The Cambridge Open Zettascale Lab](https://www.zettascale.hpc.cam.ac.uk/)
 
 We are grateful to the support provided by Intel and Codeplay for this event.
 
