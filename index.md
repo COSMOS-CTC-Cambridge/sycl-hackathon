@@ -119,6 +119,10 @@ at the University of Cambridge:
 * [The Stephen Hawking Centre for Theoretical Cosmology](https://www.ctc.cam.ac.uk/)
 * [The Cambridge Open Zettascale Lab](https://www.zettascale.hpc.cam.ac.uk/)
 
+<p align=center>
+    <img src="assets/img/oneapi.png" height=160>
+</p>
+
 We are grateful to the support provided by Intel and Codeplay for this event.
 
 <p align=center>
