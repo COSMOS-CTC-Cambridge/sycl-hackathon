@@ -20,6 +20,7 @@ author: Miren Radia
 ###############################################
 
 navbar-links:
+  Register: "register"
   Centre for Theoretical Cosmology: "https://www.ctc.cam.ac.uk/"
   IWOCL/SYCLcon: "https://www.iwocl.org/"
   CSD3:

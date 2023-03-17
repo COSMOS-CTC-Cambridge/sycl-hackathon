@@ -41,8 +41,7 @@ optimizations can be used.
 
 ## Registration
 
-Please complete the registration form
-[here](https://forms.gle/1Q4kk87moGFaTjjs5) by 
+Please complete the [registration form](register) by 
 
 <p align=center style="color:red"><strong> midnight on Friday 31 March. </strong></p>
 
