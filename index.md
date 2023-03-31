@@ -43,7 +43,7 @@ optimizations can be used.
 
 Please complete the [registration form](register) by 
 
-<p align=center style="color:red"><strong> midnight on Friday 31 March. </strong></p>
+<p align=center style="color:red"><strong> midnight on Thursday 6 April. </strong></p>
 
 Note that there is limited capacity and that priority will be given to
 participants from Intel oneAPI Centers of Excellence, ExCALIBUR and local
@@ -66,9 +66,11 @@ The following is preliminary.
 | Time | Activity | Lead |
 | --- | --- | --- |
 | 09:00-09:30 | Arrival | - |
-| 09:30-10:00 | Introduction to hackathon and specific SYCL benchmark codes | Jay Mahalingham (Intel, remote), Rod Burns (Codeplay) |
+| 09:30-09:45 | Introduction to hackathon | Jay Mahalingham (Intel, remote) |
+| 09:45-10:00 | Introduction to HeCBench project and hackathon themes | Rod Burns (Codeplay), Hugh Delaney (Codeplay) |
 | 10:00-10:15 | Introduction to CSD3 | Kacper Kornet (Cambridge) |
-| 10:15-11:30 | Hands-on | - |
+| 10:15-10:30 | Introduction to Ponte Vecchio on the Intel DevCloud | Hugh Delaney (Codeplay) |
+| 10:45-11:30 | Hands-on | - |
 | 11:30-11:45 | Coffee break | - |
 | 11:45-13:00 | Hands-on | - |
 | 13:00-14:00 | Lunch | - |
@@ -108,6 +110,14 @@ features 80 nodes each with
 If you do not have an account on CSD3, please indicate on the registration form.
 If you do have an account, please provide your username so that it can be added
 to the reservation.
+
+In addition to CSD3, attendees will have the opportunity to use a system with
+the new Intel Data Center GPU Max (aka Ponte Vecchio) on the Intel DevCloud 
+during the hackathon.
+
+<p align=center>
+    <img src="assets/img/pvc.png" height=160>
+</p>
 
 ## Support
 
