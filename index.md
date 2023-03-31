@@ -33,12 +33,50 @@ therefore need to bring along a laptop with which they can access the remote
 system and program on.
 ## SYCL benchmark codes
 
-The [HeCBench](https://github.com/zjin-lcf/HeCBench) project contains an
-extensive set of benchmarks written in CUDA, HIP and SYCL. There are also
-numerous papers using the results of these benchmarks that have been published.
-Some gaps exist in the implementations for the project, and it would be useful
-to examine some of the benchmark performance results to understand what
-optimizations can be used.
+In this hackathon there will be three themes related to the
+[HeCBench](https://github.com/zjin-lcf/HeCBench) project:
+
+### Performance and optimization
+
+Do you want to learn how to profile and optimize SYCL code? Or do you have
+profiling and optimization experience you would like to share?
+
+The HeCBench project brings an extensive set of benchmarks together covering a
+broad set of different algorithms. These benchmarks are written with SYCL, CUDA
+and HIP and provide a unique opportunity to compare these programming models.
+There are however some benchmarks with significant performance variations and
+some of these listed in the accompanying spreadsheet. We have identified some
+benchmarks to focus on understanding why performance variation occurs. Perhaps
+this is because the CUDA and SYCL kernels are not equivalent, or there is a
+difference in the problem size, or there it exposes a performance gap. Let's
+work together to make the HeCBench benchmarks show an accurate picture of
+performance of CUDA and SYCL code running on CSD3.
+
+### Updates to support the latest SYCL 2020 features
+Do you want to learn how to use the latest SYCL 2020 features and syntax?
+
+The SYCL specification continues changing every year. Therefore, users observe
+that certain language features and programming interfaces are deprecating or
+deprecated when compiling these benchmarks with a recent compiler. Upgrading the
+SYCL benchmarks will minimize the number of compiler warnings about deprecation
+and help to gather feedback on the latest SYCL features. A list of the
+benchmarks that need to be updated is available.
+
+### Improving benchmark occupancy and consistency of run time
+
+Do you want to understand more about how to run benchmarks in a fair, useful and
+consistent way?
+
+Running benchmarks can be tricky. There are different considerations that need
+to be taken into account when writing and also running benchmarks. Is the
+benchmark running with high occupancy on the target processor? Does the
+benchmark run for long enough for the recorded timing to be a useful measure? Do
+the benchmarks provide consistent results?
+
+The HeCBench project has a large set of benchmarks, and some have been
+identified as needing work to address these questions. Work on this theme to
+improve the overall execution of the benchmarks in this project.
+
 
 
 ## Registration
