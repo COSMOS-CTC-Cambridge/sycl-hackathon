@@ -28,6 +28,7 @@ navbar-links:
     - Documentation: "https://docs.hpc.cam.ac.uk/hpc/"
   SYCL resources:
     - About SYCL: "https://www.khronos.org/sycl/"
+    - SYCL Academy: "https://github.com/codeplaysoftware/syclacademy"
     - Intel Essentials of SYCL Training: "https://www.intel.com/content/www/us/en/developer/tools/oneapi/training/dpc-essentials.html"
 
 ################

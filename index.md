@@ -25,10 +25,12 @@ issues, SYCL features and general queries.
 Participants are not required to bring along their own SYCL code but some basic
 familiarity with SYCL will be assumed (e.g. at the level of the material covered
 in the [Intel Essentials of SYCL
-modules](https://www.intel.com/content/www/us/en/developer/tools/oneapi/training/dpc-essentials.html)).
-Furthermore, participants will be expected to live-code throughout the hackathon
-and will therefore need to bring along a laptop with which they can access the
-remote system and program on.
+modules](https://www.intel.com/content/www/us/en/developer/tools/oneapi/training/dpc-essentials.html)
+or the material covered in the [Codeplay SYCL
+Academy](https://github.com/codeplaysoftware/syclacademy)).  Furthermore,
+participants will be expected to live-code throughout the hackathon and will
+therefore need to bring along a laptop with which they can access the remote
+system and program on.
 ## SYCL benchmark codes
 
 The [HeCBench](https://github.com/zjin-lcf/HeCBench) project contains an
