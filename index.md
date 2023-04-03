@@ -152,7 +152,7 @@ If you do have an account, please provide your username so that it can be added
 to the reservation.
 
 In addition to CSD3, attendees will have the opportunity to use a system with
-the new Intel Data Center GPU Max (aka Ponte Vecchio) on the Intel DevCloud 
+the new Intel Data Center GPU Max 1100 (aka Ponte Vecchio) on the Intel DevCloud 
 during the hackathon.
 
 <p align=center>
